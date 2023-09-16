@@ -14,7 +14,8 @@
 
 ![image](http://oj.hetao101.com/file/8735/nMlN4cZYk8d7_mThGYf4l.png)[
 ](https://www.luogu.com.cn/user/1007861)
-![68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966.gif](https://img1.imgtp.com/2023/08/23/hNTdLcs8.gif)![](https://stats.justsong.cn/api/bilibili/?id=2035726124&lang=zh-C)
+![68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966.gif](https://img1.imgtp.com/2023/08/23/hNTdLcs8.gif)![](https://stats.justsong.cn/api/bilibili/?id=2035726124&lang=zh-C)[![GitHub Streak](https://streak-stats.demolab.com?user=crcdlixx&locale=zh_Hans&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=200)](https://git.io/streak-stats)
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ## 📮联系方式
 
