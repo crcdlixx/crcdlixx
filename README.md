@@ -4,7 +4,8 @@
 
 # 🙋‍♂️自我介绍
 
-欢迎参观核oj最好的主页,您是第![](http://antzuhl.cn:4000/get/@crcdlixxant.zuhl.readme)个来到的👏
+欢迎参观核oj最好的主页,您是第
+![crcdlixx](https://count.getloli.com/get/@:crcdlixx)个来到的
 
 <img alt="ip签名图片" src="https://www.ipip5.com/ipimg">
 
@@ -16,9 +17,7 @@
 ](https://www.luogu.com.cn/user/1007861)
 ![68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966.gif](https://img1.imgtp.com/2023/08/23/hNTdLcs8.gif)![](https://stats.justsong.cn/api/bilibili/?id=2035726124&lang=zh-C)[![GitHub Streak](https://streak-stats.demolab.com?user=crcdlixx&locale=zh_Hans&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=200)](https://git.io/streak-stats)
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-![Metrics](https://metrics.lecoq.io/crcdlixx?template=classic&fortune=1&isocalendar=1&skyline=1&gists=1&people=1&projects=1&chess=1&stock=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&gists=false&projects=false&projects.limit=4&projects.descriptions=false&skyline=false&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&skyline.settings=%7B%0A%20%20%22url%22%3A%20%22https%3A%2F%2Fskyline.github.com%2F%24%7Blogin%7D%2F%24%7Byear%7D%22%2C%0A%20%20%22ready%22%3A%20%22%5B...document.querySelectorAll('span')%5D.map(span%20%3D%3E%20span.innerText).includes('Share%20on%20Twitter')%22%2C%0A%20%20%22wait%22%3A%201%2C%0A%20%20%22hide%22%3A%20%22button%2C%20footer%2C%20a%22%0A%7D%0A&chess=false&chess.user=.user.login&chess.animation=%7B%0A%20%20%22size%22%3A%2040%2C%0A%20%20%22delay%22%3A%203%2C%0A%20%20%22duration%22%3A%200.6%0A%7D%0A&fortune=false&stock=false&stock.symbol=MSFT&stock.duration=1d&stock.interval=5m&config.timezone=Asia%2FHong_Kong)
-![info](https://github-readme-stats.vercel.app/apicrcdlixxCasterWx&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crcdlixx)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📮联系方式
 
