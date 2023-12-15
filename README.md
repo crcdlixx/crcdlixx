@@ -1,17 +1,19 @@
-![成就](http://mc.whitegem.net/image/eyJpIjowLCJpZCI6IjM4IiwiZiI6ImZ6bXd0LnR0ZiIsInRjIjoiI0ZGRkYwMCIsInQiOiI2STYzNWI2WDVvaVE1YkN4SVE9PSIsImNjIjoiI0ZGRkZGRiIsImMiOiI1cXlpNkwrTzVwMmw1WWl3VEVsNGVPZWFoT1M0dSttaHRRPT0ifQ==.png)
-
 👍 永远相信美好的事情，即将发生！👍
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=500&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&width=280&height=40&lines=Hi%2CI'm+Lixx!;Welcome+to+my+homepage!)](https://git.io/typing-svg)
+
+
 # 🙋‍♂️自我介绍
 
 大佬您好，您是第
-![crcdlixx](https://count.getloli.com/get/@:crcdlixx)个来到的
+![crcdlixx](https://count.getloli.com/get/@:crcdlixx)个来到的 
 
 
 ![Static Badge](https://img.shields.io/badge/-果粉-blue?logo=apple&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000)![Static Badge](https://img.shields.io/badge/-软粉-blue?logo=microsoft&logoColor=%23FFFFFF&labelColor=%235E5E5E&color=%235E5E5E)  ![Static Badge](https://img.shields.io/badge/-米粉-blue?logo=Xiaomi&logoColor=%23FFFFFF&labelColor=%23FF6900&color=%23FF6900)  ![Static Badge](https://img.shields.io/badge/-谷粉-blue?logo=google&logoColor=%23FFFFFF&labelColor=%234285F4&color=%234285F4)  ![Static Badge](https://img.shields.io/badge/索粉-blue?logo=sony&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000)
 
 不喜欢写代码 没啥特长😕
+
+>此人的个人资料已经全部转为`Github`
 
 ![image](http://oj.hetao101.com/file/8735/nMlN4cZYk8d7_mThGYf4l.png)
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
@@ -52,6 +54,11 @@
 ![Static Badge](https://img.shields.io/badge/-Apple-blue?logo=apple&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/-Asus-blue?logo=asus&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000)
 
+## TODO板
+> 建设新星博客
+
+> 修建.github.io导航页
+
 ## 写在最后
 
 回洛谷看看，是怀着一丝敬佩的。
@@ -79,3 +86,4 @@
 绕远的路，总有风景。
 
 ——P3369题解 by天上一颗蛋
+ ![成就](http://mc.whitegem.net/image/eyJpIjowLCJpZCI6IjM4IiwiZiI6ImZ6bXd0LnR0ZiIsInRjIjoiI0ZGRkYwMCIsInQiOiI2STYzNWI2WDVvaVE1YkN4SVE9PSIsImNjIjoiI0ZGRkZGRiIsImMiOiI1cXlpNkwrTzVwMmw1WWl3VEVsNGVPZWFoT1M0dSttaHRRPT0ifQ==.png)
